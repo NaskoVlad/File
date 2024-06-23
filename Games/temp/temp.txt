@@ -1,0 +1,11 @@
+1Дирректория main создана по пути - D:\Games\Games\src
+Файл Main.java создан по пути - D:\Games\Games\src\main\Main.java
+Файл src создан по пути - D:\Games\Games\src\main\Utils.java
+Дирректория test создана по пути - D:\Games\Games\src\test
+Дирректория res создана по пути - D:\Games\Games\res
+Дирректория drawables создана по пути - D:\Games\Games\res\drawables
+Дирректория vectors создана по пути - D:\Games\Games\res\vectors
+Дирректория icons создана по пути - D:\Games\Games\res\icons
+Дирректория savegames создана по пути - D:\Games\Games\savegames
+Дирректория temp создана по пути - D:\Games\Games\temp
+Файл temp.txt создан по пути - D:\Games\Games\temp\temp.txt
